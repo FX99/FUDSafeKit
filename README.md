@@ -13,16 +13,9 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Installation
 
-SafeKit is available through [CocoaPods](https://cocoapods.org). To install
-it, simply add the following line to your Podfile:
-
-```ruby
-pod 'SafeKit'
-```
-
 ## Author
 
-fudolan@163.com, lanfudong@58.com
+fudolan@163.com
 
 ## License
 
