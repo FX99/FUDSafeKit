@@ -1,4 +1,4 @@
-# SafeKit
+# FUDSafeKit
 
 [![CI Status](https://img.shields.io/travis/fudolan@163.com/SafeKit.svg?style=flat)](https://travis-ci.org/fudolan@163.com/SafeKit)
 [![Version](https://img.shields.io/cocoapods/v/SafeKit.svg?style=flat)](https://cocoapods.org/pods/SafeKit)
@@ -13,10 +13,16 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Installation
 
+Add FUDSafeKit directory to your project directly.
+Or use local pod lib
+```ruby
+pod 'FUDSafeKit', :path => 'path to FUDSafeKit'
+```
+
 ## Author
 
 fudolan@163.com
 
 ## License
 
-SafeKit is available under the MIT license. See the LICENSE file for more info.
+FUDSafeKit is available under the MIT license. See the LICENSE file for more info.
